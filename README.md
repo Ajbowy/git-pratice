@@ -7,3 +7,6 @@ I am learning Git CLI for DevOps
 - Commits 
 - Branching
 - Gitub intergration
+## What i'm learning
+- Linux admin
+- Git and GitHub CLI
