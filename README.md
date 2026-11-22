@@ -10,3 +10,4 @@ I am learning Git CLI for DevOps
 ## What i'm learning
 - Linux admin
 - Git and GitHub CLI
+- Learning Git branching and collaboration
